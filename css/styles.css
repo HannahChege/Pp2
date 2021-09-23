@@ -1,0 +1,172 @@
+body {
+  background-image: url("../img/office2.jpeg");
+  /* opacity: 1 !important; */
+
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+#body{
+  /* background-size: cover; */
+  /* background-attachment: fixed; */
+
+  /* background-image: url("../img/office2.jpeg"); */
+ background-color:rgba(0, 0, 0, 0.7);
+}
+
+body {
+  /* background-image: url("../img/office2.jpeg"); */
+  opacity: 1 !important;
+
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.padding {
+  /* padding-bottom: 1rem; */
+}
+
+.social a {
+  font-size: 1.5em;
+  padding: 2rem;
+}
+
+.fa-facebook {
+  /* color: white; */
+}
+
+.fa-twitter {
+  color: #00aced;
+}
+.fa-quora {
+  color: red;
+}
+.fa-github {
+  color: black;
+}
+
+
+
+.fa-google-plus-g {
+  color: white;
+}
+
+.fa-instagram {
+  color: white;
+}
+
+.fa-youtube {
+  color: white;
+}
+
+.fa-facebook:hover, .fa-twitter:hover, .fa-google-plus-g:hover, .fa-instagram:hover'
+ .fa-youtube:hover {
+  color: #d5d5d5;
+}
+
+
+#card1{
+  background-color: white;
+}
+
+#card1:hover{
+  background-color: #00B4DB;
+  color:white;
+}
+
+
+
+#cardtext{
+  color: black;
+  font-family: 'Roboto Mono', monospace;
+
+}
+
+
+
+#avatar{
+  padding:1em;
+}
+#logo{
+  padding-bottom: 19em;
+}
+
+#lorem{
+  background-color: white;
+}
+
+#skills{
+  background-color: #00B4DB;
+  opacity: 0.7;
+  color: white;
+
+
+}
+
+
+}
+
+
+#hellotext{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 2em;
+
+}
+
+/* p{
+  font-family: 'Roboto Mono', monospace !important;
+
+
+} */
+
+#name{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 2em;
+  color: #eece1a;
+  font-weight: bold;
+  /* opacity: 1 !important; */
+}
+
+footer{
+  color: black !important;
+  font-size: 20px;
+  background-color: #f5f5f5;
+
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#hello{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 2em;
+  color: #bdbdbd;
+
+}
+hr{
+  color: white !important;
+}
+
+h3{
+  font-family: 'Roboto Mono', monospace;
+
+
+}
+
+#hello2{
+  font-family: 'Roboto Mono', monospace;
+}
+
+font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Roboto Mono', monospace;
+font-family: 'K2D', sans-serif;
+font-family: 'Cedarville Cursive', cursive;
+font-family: 'Pacifico', cursive;
+font-family: 'Play', sans-serif;
+font-family: 'K2D', sans-serif;
